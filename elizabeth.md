@@ -13,4 +13,4 @@ Estoy en la búsqueda de seguir perfeccionando mis habilidades en programación 
 Lenguajes: HTML, Java, Python
 Mi misión es dominar diferentes lenguajes y tecnologías para ser una experta en desarrollo de software y análisis de datos.
 
-Mi usuario en Git es [Lizzie00111] (https://github.com/Lizzie00111)
+Mi usuario en Git es [Lizzie00111](https://github.com/Lizzie00111)
